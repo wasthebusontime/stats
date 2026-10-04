@@ -1,6 +1,6 @@
 # Was the Bus On Time? Statistics
 
-On-time performance statistics for Intercity Transit buses (Olympia, Washington), computed from the agency's public real-time data by [Was the Bus On Time?](https://wasthebusontime.com), an **unofficial**, open-source project.
+On-time performance statistics for Intercity Transit buses, computed from the agency's public real-time data by [Was the Bus On Time?](https://wasthebusontime.com), an **unofficial**, open-source project. Intercity Transit is headquartered in Olympia, Washington, and serves a [Public Transportation Benefit Area (PTBA)](https://gis-intercitytransit.hub.arcgis.com/datasets/d5f34e2925c441aba160994c57fd3c8f_0/explore?location=47.019650%2C-122.784469%2C11) in Thurston County.
 
 > **This project is not affiliated with, endorsed by, or associated with Intercity Transit in any way.**
 
